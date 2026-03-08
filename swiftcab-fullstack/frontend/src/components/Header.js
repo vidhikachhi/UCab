@@ -42,7 +42,7 @@ const Header = () => {
     <header className={`sticky top-0 z-50 transition-all duration-300 ${isScrolled ? 'bg-white shadow-md py-3' : 'bg-white/95 py-4'}`}>
       <nav className="container mx-auto px-4 flex justify-between items-center">
         <Link to="/" className="text-2xl font-bold text-primary flex items-center" onClick={closeMenu}>
-          <i className="fas fa-taxi mr-2"></i> SwiftCab
+          <i className="fas fa-taxi mr-2"></i> UCab
         </Link>
         
         <div className="lg:hidden">

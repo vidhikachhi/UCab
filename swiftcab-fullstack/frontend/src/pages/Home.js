@@ -11,7 +11,7 @@ const Home = () => {
           <div className="flex flex-col md:flex-row items-center">
             <div className="md:w-1/2 mb-10 md:mb-0 md:pr-10">
               <h1 className="text-4xl md:text-5xl font-bold mb-6 leading-tight text-dark">
-                Get to Your Destination <span className="text-primary">Swiftly</span>
+                Get to Your Destination <span className="text-primary">Easily</span>
               </h1>
               <p className="text-xl text-gray mb-8 max-w-lg">
                 Reliable, safe and comfortable cab service at your fingertips. Book your ride in minutes!
@@ -40,7 +40,7 @@ const Home = () => {
       <section className="py-16 bg-light">
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
-            <h2 className="section-title mx-auto">Why Choose SwiftCab?</h2>
+            <h2 className="section-title mx-auto">Why Choose UCab?</h2>
             <p className="text-gray max-w-2xl mx-auto">Experience the best cab service with our user-friendly platform and professional drivers</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">

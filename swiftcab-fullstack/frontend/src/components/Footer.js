@@ -11,7 +11,7 @@ const Footer = () => {
           <div>
             <h3 className="text-xl font-bold mb-6 relative pb-3 after:content-[''] after:absolute after:left-0 after:bottom-0 after:w-16 after:h-1 after:bg-white/30 after:rounded-full">
               <span className="flex items-center">
-                <i className="fas fa-taxi mr-2"></i> SwiftCab
+                <i className="fas fa-taxi mr-2"></i> UCab
               </span>
             </h3>
             <p className="mb-6 opacity-80 leading-relaxed">
@@ -72,15 +72,15 @@ const Footer = () => {
             <ul className="space-y-4">
               <li className="flex items-start">
                 <i className="fas fa-map-marker-alt mt-1.5 mr-3 text-white/70"></i>
-                <span className="opacity-80">Bharati Vidyapeeth, Paschim Vihar, Delhi</span>
+                <span className="opacity-80">Delhi, India</span>
               </li>
               <li className="flex items-start">
                 <i className="fas fa-phone mt-1.5 mr-3 text-white/70"></i>
-                <span className="opacity-80">(+91) 9811505046</span>
+                <span className="opacity-80">(+91) 1234567890</span>
               </li>
               <li className="flex items-start">
                 <i className="fas fa-envelope mt-1.5 mr-3 text-white/70"></i>
-                <span className="opacity-80">support@swiftcab.com</span>
+                <span className="opacity-80">support@Ucab.com</span>
               </li>
               <li className="flex items-start">
                 <i className="fas fa-clock mt-1.5 mr-3 text-white/70"></i>
