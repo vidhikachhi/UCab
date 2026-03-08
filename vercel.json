@@ -1,0 +1,12 @@
+{
+  "buildCommand": "cd swiftcab-fullstack/frontend && npm run build",
+  "outputDirectory": "swiftcab-fullstack/frontend/build",
+  "installCommand": "npm install --prefix swiftcab-fullstack/frontend",
+  "framework": "react",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
