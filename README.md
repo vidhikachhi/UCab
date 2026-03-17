@@ -2,14 +2,6 @@
 
 A modern, responsive cab booking application built with React, Node.js, Express, and MongoDB.
 
-## Features
-
-- **Responsive Design**: Works on desktop, tablet, and mobile devices
-- **Booking Management**: Create, view, and cancel cab bookings
-- **Ride Status Tracking**: Track your ride status (Pending, On The Way, Arrived, Completed)
-- **Fare Estimation**: Calculate fare estimates before booking
-- **Multiple Cab Types**: Choose from Mini, Sedan, or SUV
-
 ## Tech Stack
 
 ### Frontend
